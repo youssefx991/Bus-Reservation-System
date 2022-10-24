@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\ACM Projects\New folder\Bus_Res\Bus_Res\Source.cpp(445,10): warning C4101: 'ch': unreferenced local variable
+D:\ACM Projects\New folder\Bus_Res\Bus_Res\Source.cpp(506,18): warning C4101: 'ch': unreferenced local variable
+D:\ACM Projects\New folder\Bus_Res\Bus_Res\Source.cpp(551,9): warning C4101: 'num_tickets': unreferenced local variable
+D:\ACM Projects\New folder\Bus_Res\Bus_Res\Source.cpp(633,17): warning C4101: 'TR': unreferenced local variable
+D:\ACM Projects\New folder\Bus_Res\Bus_Res\Source.cpp(852,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\ACM Projects\New folder\Bus_Res\Bus_Res\Source.cpp(234): warning C4715: 'sign_in': not all control paths return a value
+D:\ACM Projects\New folder\Bus_Res\Bus_Res\Source.cpp(394): warning C4715: 'get_bus_number': not all control paths return a value
+  Bus_Res.vcxproj -> D:\ACM Projects\New folder\Bus_Res\x64\Debug\Bus_Res.exe
